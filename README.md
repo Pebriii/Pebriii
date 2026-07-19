@@ -1,10 +1,8 @@
 <div align="center">
 
 <a href="https://febrikurniawan.my.id">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Febri+Kurniawan" alt="Febri Kurniawan"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Febri%20Kurniawan&fontSize=44&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=62&descColor=B8B8D1&descSize=18" alt="Febri Kurniawan"/>
 </a>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%26+UI%2FUX+Designer" alt="subtitle"/>
 
 ### Languages
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://febrikurniawan.my.id)
@@ -34,11 +32,6 @@
 [![Campus Market](https://img.shields.io/badge/-🛍️%20Campus%20Market-000)](https://febrikurniawan.my.id)
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pebriii&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=00000000&theme=transparent"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pebriii&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&icon_color=fff&bg_color=00000000&theme=transparent"/>
-
-<br/><br/>
 
 📫 **[febrikurniawan2302@gmail.com](mailto:febrikurniawan2302@gmail.com)** · 🌐 **[febrikurniawan.my.id](https://febrikurniawan.my.id)** · 📷 **[@haipanjul_](https://instagram.com/haipanjul_)**
 
