@@ -1,103 +1,111 @@
-<h1 align="center">Hi there, I'm Febri Kurniawan 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Designer;Computer+Science+Student+%40+Pakuan+University;Building+things+with+code+%26+design" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=42&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=60&lines=Febri+Kurniawan" alt="Febri Kurniawan" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pebriii&label=Profile%20views&color=38BDF8&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Internship%20%2F%20Freelance-brightgreen?style=flat" alt="status" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&pause=1800&center=true&vCenter=true&width=650&color=00E5FF&lines=Full-Stack+Developer+%26+UI%2FUX+Designer;Building+things+from+the+code+and+design+side;Computer+Science+Student+%40+Pakuan+University" alt="Typing SVG" />
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-febrikurniawan.my.id-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://febrikurniawan.my.id)
+[![Email](https://img.shields.io/badge/Email-febrikurniawan2302%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:febrikurniawan2302@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281283160623)
 
-### 🧑‍💻 Tentang Saya
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1035,100:0d1117&height=2" width="100%"/>
 
-- 🎓 Mahasiswa **Ilmu Komputer** di **Universitas Pakuan** (GPA 3.78, Cum Laude)
-- 🏫 Lulusan **SMK Rekayasa Perangkat Lunak**
-- 💻 Fokus pada **Full-Stack Web Development** dan **UI/UX Design**
-- 🚀 Membangun platform digital fungsional, dari website company profile hingga UI/UX aplikasi mobile
-- 📫 Bisa dihubungi lewat email atau WhatsApp di bawah
+</div>
 
----
+### 🧠 About
 
-### 🛠️ Tech Stack
+Computer Science student at Pakuan University (GPA 3.78, *Cum Laude*) and a graduate of the Software Engineering Vocational School. I build functional digital platforms from both the code and design side — from company profile websites and CMS-driven platforms to full mobile app UI/UX flows in Figma. Currently exploring AI integration in web apps and sharpening my full-stack skills project by project.
 
-**Bahasa & Database**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1035,100:0d1117&height=2" width="100%"/>
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-</p>
+### ⚡ What I'm Up To
 
-**Framework & Tools**
+- 🔭 Building **CVision AI**, an AI-powered CV & cover letter generator web app
+- 🎨 Designing a complete UI/UX flow for a cooking recipe app (**COOKMATE**) in Figma
+- 🌱 Currently learning **AI integration**, deployment workflows, and modern frontend patterns
+- 💼 Open for **internship / freelance** opportunities — based in Bogor, Indonesia
+- 🎓 Wrapping up my Computer Science degree while shipping real client projects
 
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1035,100:0d1117&height=2" width="100%"/>
 
----
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🤖 CVision AI**
+AI-powered CV builder with ATS scoring & cover letter generator
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AI](https://img.shields.io/badge/AI%20Integration-00E5FF?style=flat-square)
+
+</td>
+<td width="50%">
+
+**🍳 COOKMATE — UI/UX Design**
+Full mobile app flow for a cooking recipe platform, onboarding to recipe detail
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🛍️ Campus Market — UI/UX Design**
+E-commerce mobile & web UI/UX for a campus marketplace, browse to checkout
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</td>
+<td width="50%">
+
+**🏢 Dynamic Company Profile Website**
+CMS-driven company website with real-time content updates, full deployment ownership
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+more on **[febrikurniawan.my.id](https://febrikurniawan.my.id)**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1035,100:0d1117&height=2" width="100%"/>
+
+### 🛠️ Stack & Tools
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1035,100:0d1117&height=2" width="100%"/>
+
+<div align="center">
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pebriii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pebriii&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Pebriii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pebriii&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF" alt="GitHub Streak" height="165"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pebriii&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pebriii&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy" />
-</p>
+📫 Reach me at **[febrikurniawan2302@gmail.com](mailto:febrikurniawan2302@gmail.com)** · 📍 Bogor, Indonesia
 
----
-
-### 🌐 Semua Proyek
-
-**Web Development**
-
-- **PT Duta Terang Dunia** (2026) — Website perusahaan dinamis dengan CMS untuk update data real-time · `HTML` `CSS` `PHP` · [dutaterangdunia.com](http://dutaterangdunia.com)
-- **PT Permata Berkah Mandiri** (2024) — Website dinamis furniture, interior & eksterior dengan galeri dan manajemen konten · `HTML` `CSS` `PHP`
-- **LSPAI (Lembaga Sertifikasi Profesi Astronomi Indonesia)** (2023) — Platform website dinamis untuk informasi sertifikasi dan pendaftaran anggota, dengan database terintegrasi · `HTML` `CSS` `PHP`
-- **Pengaduan Masyarakat Desa Gunung Putri** (2025) — Website statis untuk digitalisasi layanan pengaduan masyarakat desa · `HTML` `CSS` `MySQL` `PHP`
-- **Company Profile & Katalog Produk Sambal** — Fitur katalog produk interaktif untuk menampilkan varian sambal beserta navigasi pemesanan langsung ke WhatsApp/Marketplace · `HTML` `CSS` `PHP`
-- **Web Developer Internship — Sinergi Primatama Edukasi (KAONE)** (2022) — Kolaborasi tim membangun interface responsif untuk platform digital perusahaan · `HTML` `CSS` `JavaScript`
-
-**AI & Web App**
-
-- **CVision AI** (2026) — Web app berbasis AI untuk membuat CV & cover letter otomatis dengan ATS scoring dan beberapa template CV · `JavaScript` `AI Integration` · [cvisionaigenerate.netlify.app](https://cvisionaigenerate.netlify.app)
-
-**UI/UX Design (Figma)**
-
-- **CookMate** (2026) — Desain lengkap UI/UX aplikasi mobile resep masakan, mencakup onboarding hingga detail resep, filter resep, dan alur "Create Recipe"
-- **Campus Market** (2026) — Desain UI/UX e-commerce mobile & web untuk marketplace kampus, mencakup pencarian produk, cart, checkout, pembayaran QR, riwayat pesanan, profil penjual, dan sistem rating & review
-
----
-
-### 📫 Hubungi Saya
-
-<p align="center">
-  <a href="mailto:febrikurniawan2302@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/6281283160623">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://febrikurniawan.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>"built with code, designed for people."</i></p>
+</div>
