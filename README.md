@@ -98,7 +98,7 @@ more on **[febrikurniawan.my.id](https://febrikurniawan.my.id)**
 
 <div align="center">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pebriii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pebriii&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF" alt="GitHub Streak" height="165"/>
