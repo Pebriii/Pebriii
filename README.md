@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-febrikurniawan.my.id-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://febrikurniawan.my.id)
 [![Email](https://img.shields.io/badge/Email-febrikurniawan2302%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:febrikurniawan2302@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281283160623)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1035,100:0d1117&height=2" width="100%"/>
 
