@@ -64,11 +64,25 @@
 
 ---
 
-### 🌐 Proyek Unggulan
+### 🌐 Semua Proyek
 
-- **CVision AI** — Web app AI untuk membuat CV & cover letter otomatis dengan ATS scoring (JavaScript, AI Integration)
-- **UI/UX CookMate** — Desain lengkap aplikasi mobile resep masakan menggunakan Figma
-- **Campus Market** — UI/UX e-commerce mobile & web untuk marketplace kampus
+**Web Development**
+
+- **PT Duta Terang Dunia** (2026) — Website perusahaan dinamis dengan CMS untuk update data real-time · `HTML` `CSS` `PHP` · [dutaterangdunia.com](http://dutaterangdunia.com)
+- **PT Permata Berkah Mandiri** (2024) — Website dinamis furniture, interior & eksterior dengan galeri dan manajemen konten · `HTML` `CSS` `PHP`
+- **LSPAI (Lembaga Sertifikasi Profesi Astronomi Indonesia)** (2023) — Platform website dinamis untuk informasi sertifikasi dan pendaftaran anggota, dengan database terintegrasi · `HTML` `CSS` `PHP`
+- **Pengaduan Masyarakat Desa Gunung Putri** (2025) — Website statis untuk digitalisasi layanan pengaduan masyarakat desa · `HTML` `CSS` `MySQL` `PHP`
+- **Company Profile & Katalog Produk Sambal** — Fitur katalog produk interaktif untuk menampilkan varian sambal beserta navigasi pemesanan langsung ke WhatsApp/Marketplace · `HTML` `CSS` `PHP`
+- **Web Developer Internship — Sinergi Primatama Edukasi (KAONE)** (2022) — Kolaborasi tim membangun interface responsif untuk platform digital perusahaan · `HTML` `CSS` `JavaScript`
+
+**AI & Web App**
+
+- **CVision AI** (2026) — Web app berbasis AI untuk membuat CV & cover letter otomatis dengan ATS scoring dan beberapa template CV · `JavaScript` `AI Integration` · [cvisionaigenerate.netlify.app](https://cvisionaigenerate.netlify.app)
+
+**UI/UX Design (Figma)**
+
+- **CookMate** (2026) — Desain lengkap UI/UX aplikasi mobile resep masakan, mencakup onboarding hingga detail resep, filter resep, dan alur "Create Recipe"
+- **Campus Market** (2026) — Desain UI/UX e-commerce mobile & web untuk marketplace kampus, mencakup pencarian produk, cart, checkout, pembayaran QR, riwayat pesanan, profil penjual, dan sistem rating & review
 
 ---
 
