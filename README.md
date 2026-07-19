@@ -1,6 +1,10 @@
 <div align="center">
 
-[![Febri Kurniawan](https://capsule-render.vercel.app/api?type=slice&color=000000&height=180&section=header&text=FEBRI%20KURNIAWAN&fontSize=46&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=75&descColor=aaaaaa)](https://febrikurniawan.my.id)
+<a href="https://febrikurniawan.my.id">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Febri+Kurniawan" alt="Febri Kurniawan"/>
+</a>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%26+UI%2FUX+Designer" alt="subtitle"/>
 
 ### Languages
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://febrikurniawan.my.id)
@@ -31,8 +35,8 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pebriii&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pebriii&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pebriii&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=00000000&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pebriii&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&icon_color=fff&bg_color=00000000&theme=transparent"/>
 
 <br/><br/>
 
