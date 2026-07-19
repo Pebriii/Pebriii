@@ -1,0 +1,61 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29">
+        <animate attributeName="stop-color" values="#0f0c29;#302b63;#24243e;#0f0c29" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#302b63">
+        <animate attributeName="stop-color" values="#302b63;#24243e;#0f0c29;#302b63" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#24243e">
+        <animate attributeName="stop-color" values="#24243e;#0f0c29;#302b63;#24243e" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg)"/>
+
+  <circle cx="120" cy="60" r="3" fill="#ffffff" opacity="0.5">
+    <animate attributeName="cy" values="60;180;60" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="260" cy="170" r="2.5" fill="#8ab4ff" opacity="0.6">
+    <animate attributeName="cy" values="170;40;170" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.15;0.6" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="760" cy="50" r="3" fill="#ffffff" opacity="0.4">
+    <animate attributeName="cy" values="50;190;50" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.1;0.4" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="640" cy="160" r="2" fill="#c9a8ff" opacity="0.5">
+    <animate attributeName="cy" values="160;30;160" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="35" r="2.5" fill="#8ab4ff" opacity="0.4">
+    <animate attributeName="cy" values="35;185;35" dur="8.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.1;0.4" dur="8.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="140" r="2" fill="#ffffff" opacity="0.5">
+    <animate attributeName="cy" values="140;20;140" dur="7.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="7.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="80" cy="150" r="2.5" fill="#c9a8ff" opacity="0.4">
+    <animate attributeName="cy" values="150;30;150" dur="9.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.1;0.4" dur="9.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="450" y="105" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">
+    Febri Kurniawan
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <text x="450" y="145" text-anchor="middle" font-family="Consolas, monospace" font-size="18" fill="#a9b4d0">
+    Full-Stack Developer &amp; UI/UX Designer
+    <animate attributeName="opacity" values="0;0;1" dur="2.2s" fill="freeze"/>
+  </text>
+
+  <rect x="360" y="165" width="180" height="2" fill="#8ab4ff" opacity="0.7">
+    <animate attributeName="width" values="0;180" dur="1.5s" begin="0.8s" fill="freeze"/>
+    <animate attributeName="x" values="450;360" dur="1.5s" begin="0.8s" fill="freeze"/>
+  </rect>
+</svg>
